@@ -58,12 +58,11 @@ A beginner Python project using randomization.
 
 ## 🤝 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: ayushdev635@gmail.com
 
 💼 LinkedIn: [Ayush Tripathi](https://www.linkedin.com/in/ayush-tripathi-dev/?isSelfProfile=true)
 
 🐙 GitHub: [AyushByte-eng](https://github.com/AyushByte-eng)
-
 ---
 
 ### DREAM • LEARN • BUILD 🚀
