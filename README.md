@@ -1,62 +1,75 @@
-<!--
-  AYUSH TRIPATHI | GitHub Profile README
-  Theme: Purple Neon / Futuristic
-  GitHub: AyushByte-eng
---><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:240046,75:7B2CBF,100:C77DFF&height=220&section=header&text=AYUSH%20TRIPATHI&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=DREAM%20%E2%80%A2%20LEARN%20%E2%80%A2%20BUILD&descSize=16&descAlignY=58" width="100%" alt="Ayush Tripathi — purple neon developer banner"/>
+<!-- AYUSH TRIPATHI | ANIME x CYBERPUNK PROFILE --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:170B35,75:5B21B6,100:00E5FF&height=220&section=header&text=AYUSH%20TRIPATHI&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DREAM%20%E2%80%A2%20LEARN%20%E2%80%A2%20BUILD&descSize=16&descAlignY=57" width="100%" alt="Ayush Tripathi cyberpunk banner"/>
 </p><h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=C77DFF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;Exploring+AI+%26+Machine+Learning;Python+%7C+C%2B%2B+%7C+Problem+Solving;Learning+Today.+Building+Tomorrow." alt="Animated developer introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ayush+Tripathi+%F0%9F%91%8B;Aspiring+Software+Developer;Exploring+AI+%26+Machine+Learning;Code.+Create.+Evolve.+Repeat." alt="Animated developer introduction"/>
 </h3><p align="center">
   <a href="https://github.com/AyushByte-eng">
-    <img src="https://img.shields.io/badge/GitHub-AyushByte--eng-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-AyushByte--eng-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub profile"/>
   </a>
   <a href="https://www.linkedin.com/in/ayush-tripathi-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
   </a>
 </p><p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software_Development-C77DFF?style=flat-square" alt="Software development focus"/>
-  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-9D4EDD?style=flat-square" alt="AI and machine learning"/>
-  <img src="https://img.shields.io/badge/Status-Always_Learning-7B2CBF?style=flat-square" alt="Always learning"/>
+  <img src="https://img.shields.io/badge/CLASS-Developer%20in%20Progress-7B2CBF?style=flat-square" alt="Developer in progress"/>
+  <img src="https://img.shields.io/badge/FOCUS-Software%20%2B%20AI-00E5FF?style=flat-square&logoColor=black" alt="Software development and AI"/>
+  <img src="https://img.shields.io/badge/MODE-Building-FF4FD8?style=flat-square" alt="Building mode"/>
 </p>---
 
-◈ "whoami" — About Me
+⚡ "whoami" — The Developer Behind the Screen
 
-Hey there! I'm Ayush Tripathi, a B.Tech student at Deen Dayal Upadhyaya Gorakhpur University, building my foundation in programming and software development.
+Hey! I'm Ayush Tripathi, a B.Tech student at Deen Dayal Upadhyaya Gorakhpur University, exploring the world of software development and AI.
 
-I believe in learning by building, staying curious, and turning ideas into real projects.
+I'm building my skills one concept, one project, and one bug at a time.
 
-- 💻 Learning programming, software development, and problem-solving.
-- 🐍 Strengthening my Python fundamentals and exploring C++.
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Data Science.
-- 🌐 Building websites and exploring UI/UX design with Figma.
-- 🚀 Interested in open source, hackathons, and collaborative projects.
-- 🎯 Long-term goal: grow into a strong software developer working on impactful technology.
+- 💻 Learning programming and software development.
+- 🐍 Strengthening my Python fundamentals.
+- ⚙️ Exploring C++, algorithms, and problem-solving.
+- 🤖 Working toward AI, Machine Learning, and Data Science.
+- 🎨 Interested in UI/UX design, Figma, and creative web experiences.
+- 🚀 Interested in open source, hackathons, and team collaboration.
 
-«💜 Dream big. Learn consistently. Build relentlessly.»
+class AyushTripathi:
+    def __init__(self):
+        self.role = "B.Tech Student & Aspiring Developer"
+        self.interests = [
+            "Software Development",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Problem Solving",
+        ]
+        self.mindset = "Learn -> Build -> Improve"
+
+    def current_mission(self):
+        return "Turning ideas into real projects."
+
+
+me = AyushTripathi()
+print(me.current_mission())
+
+«🌌 The goal isn't to look like an expert. It's to become one.»
 
 ---
 
-◈ Tech Arsenal
+🗡️ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode,figma&theme=dark" alt="Python, C++, web development, Git, GitHub, VS Code and Figma"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode,figma&theme=dark" alt="Programming languages and developer tools"/>
 </p><p align="center">
-  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-8A2BE2?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-C77DFF?style=flat-square&logo=googlecolab&logoColor=white" alt="AI and machine learning"/>
-</p>Currently focusing on programming fundamentals, building projects, and developing a solid foundation for AI/ML.
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub"/>
+</p>Currently exploring: AI/ML fundamentals, software engineering practices, DSA, and better project-building workflows.
 
 ---
 
-◈ Featured Projects
+🚀 Projects — My Digital Dojo
 
 <p align="center">
   <a href="https://github.com/AyushByte-eng/ykfashion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushByte-eng&repo=ykfashion&theme=synthwave&hide_border=true" width="49%" alt="YK Fashion repository card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushByte-eng&repo=ykfashion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4FD8" width="49%" alt="YK Fashion project card"/>
   </a>
   <a href="https://github.com/AyushByte-eng/hardware-shop-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushByte-eng&repo=hardware-shop-website&theme=synthwave&hide_border=true" width="49%" alt="Hardware Shop Website repository card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushByte-eng&repo=hardware-shop-website&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4FD8" width="49%" alt="Hardware Shop Website project card"/>
   </a>
 </p>🛍️ YK Fashion
 
@@ -64,73 +77,64 @@ A fashion landing-page project designed using Figma.
 
 Focus: UI/UX design and fashion website concepts.
 
-"↗ Explore repository" (https://github.com/AyushByte-eng/ykfashion)
+"⟶ Explore the repository" (https://github.com/AyushByte-eng/ykfashion)
 
 🔧 Hardware Shop Website
 
-A website project for a hardware shop.
+A website project created for a hardware shop.
 
 Focus: Website development and practical project building.
 
-"↗ Explore repository" (https://github.com/AyushByte-eng/hardware-shop-website)
+"⟶ Explore the repository" (https://github.com/AyushByte-eng/hardware-shop-website)
 
 🐍 Python Projects
 
-Exploring Python through small programs, beginner projects, and practical coding exercises.
+Practicing programming through beginner-friendly Python projects and coding exercises.
 
-"↗ Explore all my repositories" (https://github.com/AyushByte-eng?tab=repositories)
+"⟶ Explore all repositories" (https://github.com/AyushByte-eng?tab=repositories)
 
 ---
 
-◈ GitHub Analytics
+📊 GitHub Power Level
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushByte-eng&show_icons=true&theme=synthwave&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushByte-eng&layout=compact&theme=synthwave&hide_border=true&langs_count=6" height="175" alt="Most used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushByte-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4FD8&rank_icon=github" height="170" alt="GitHub profile statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushByte-eng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&langs_count=6" height="170" alt="Most used programming languages"/>
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyushByte-eng&theme=midnight-purple&hide_border=true&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF" width="80%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=AyushByte-eng&theme=tokyonight&hide_border=true&background=0D1117&ring=FF4FD8&fire=00E5FF&currStreakLabel=00E5FF" width="80%" alt="GitHub contribution streak"/>
 </p><p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushByte-eng&bg_color=0D0221&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true&custom_title=Ayush's%20Contribution%20Matrix" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushByte-eng&bg_color=0D1117&color=00E5FF&line=9D4EDD&point=FF4FD8&area=true&hide_border=true&custom_title=AYUSH%20%E2%80%94%20CONTRIBUTION%20MATRIX" width="100%" alt="GitHub contribution activity"/>
 </p>---
 
-◈ Current Mission
+🎯 Current Quest Log
 
-[01] Strengthen Python and C++ fundamentals
-[02] Build useful projects and improve code quality
-[03] Practice DSA and problem-solving
-[04] Explore AI, Machine Learning and Data Science
-[05] Collaborate with developers and explore open source
-[06] Build a portfolio that reflects real skills
+- [ ] Level up Python programming.
+- [ ] Strengthen C++ and DSA fundamentals.
+- [ ] Build more useful, well-documented projects.
+- [ ] Explore Machine Learning and AI applications.
+- [ ] Improve GitHub collaboration skills.
+- [ ] Participate in hackathons and contribute to open source.
 
-2026 → Building my foundation
-
-- [ ] Build more practical Python projects.
-- [ ] Improve Git and GitHub collaboration.
-- [ ] Develop stronger programming and problem-solving skills.
-- [ ] Start building projects that combine software development and AI/ML.
-- [ ] Contribute to open-source projects as my skills grow.
+Main quest: Become a skilled software developer with a strong foundation in AI/ML.
 
 ---
 
-◈ Beyond the Code
+🌐 Find Me Online
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mindset-Growth%20%3E%20Perfection-C77DFF?style=for-the-badge" alt="Growth mindset"/>
-  <img src="https://img.shields.io/badge/Mode-Building-7B2CBF?style=for-the-badge" alt="Building mode"/>
-</p>I am at the beginning of my journey, and every project, bug, and new concept is another opportunity to improve.
-
-Let's learn, collaborate, and build something meaningful.
-
-<p align="center">
-  <a href="https://github.com/AyushByte-eng">Explore my GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/ayush-tripathi-dev/">Connect on LinkedIn</a>
+  <a href="https://github.com/AyushByte-eng">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-tripathi-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
 </p><p align="center">
-  <i>「 Dream it. Learn it. Build it. 」</i>
+  <i>「 Every expert was once a beginner who refused to stop. 」</i>
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,45:240046,75:7B2CBF,100:C77DFF&height=120&section=footer" width="100%" alt="Purple neon footer"/>
+  <b>⚡ DREAM BIG · CODE HARD · EVOLVE ALWAYS ⚡</b>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:170B35,75:5B21B6,100:00E5FF&height=120&section=footer" width="100%" alt="Anime cyberpunk footer"/>
 </p><!--
-External widgets power the animated banner, typing effect, project cards,
-statistics, streak and contribution graph. If a widget fails, check the
-corresponding service. Statistics may be cached or temporarily unavailable.
+Profile widgets are provided by external services and may be temporarily
+unavailable. Statistics and language charts depend on repository data.
 -->
