@@ -1,96 +1,99 @@
-# Hey, I'm Ayush ⚡
+<!-- ANIMATED HEADER -->
+<div align="center">
 
-### B.Tech Student @ DDU Gorakhpur | Aspiring Software Developer | AI/ML Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:ec4899&height=200&section=header&text=AYUSH%20TRIPATHI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dream%20%7C%20Learn%20%7C%20Build&descSize=18&descAlignY=55" width="100%" />
+
+# Hey, I'm Ayush 👋
+
+### B.Tech Student | Aspiring Software Developer | AI/ML Enthusiast
+
+*Learning today. Building tomorrow.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-AyushByte--eng-181717?style=for-the-badge&logo=github)](https://github.com/AyushByte-eng)
+
+</div>
 
 ---
 
-## 💡 What I Do
+## 💫 About Me
 
-- 🐍 Build projects with Python
-- 💻 Learn C++ and Data Structures & Algorithms
-- 🤖 Explore Artificial Intelligence & Machine Learning
-- 🚀 Build and deploy projects while learning in public
+- 🎓 B.Tech student at DDU Gorakhpur
+- 🐍 Learning Python and programming fundamentals
+- 💻 Building beginner-friendly projects and improving my coding skills
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🎯 Working towards becoming a Software Developer
+- 🚀 Interested in open source, teamwork, and hackathons
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-Python • C++ • SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode,figma&theme=dark" />
+</p>
 
-**Development**
-HTML • CSS • JavaScript • Git • GitHub
+---
 
-**Data & AI**
-NumPy • Pandas • Jupyter • Machine Learning
+## 🌱 Currently Learning
 
-**Currently Learning**
-DSA • AI/ML • Web Development
+- Python programming
+- Data Structures and Algorithms
+- Git & GitHub collaboration
+- NumPy, Pandas, and Data Science fundamentals
+- AI/ML fundamentals
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyushByte-eng&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushByte-eng&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=AyushByte-eng&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 **Hardware Shop Website**  
-A complete website project built for a hardware store.
+### 🧮 Python Calculator
+A beginner project for practicing Python fundamentals.
 
-🔹 **Student Result System**  
-Python-based system for calculating student results.
+### 🔢 Number Analyzer
+A project for exploring numbers and practicing conditional logic.
 
-🔹 **Number Analyzer**  
-Python project analyzing numbers using conditions and collections.
+### 🎓 Student Result System
+A simple project for practicing marks, totals, and result calculations.
 
-🔹 **Dice Simulator**  
-A beginner Python project using randomization.
+### 👕 Fashion Landing Page
+A fashion website design project created using Figma.
+
+🔗 [Explore my repositories](https://github.com/AyushByte-eng?tab=repositories)
+
+🔗 [Fashion project repository](https://github.com/AyushByte-eng/ykfashion)
 
 ---
 
-## 📈 My Goals
+## 📈 Contribution Activity
 
-- Become a strong Software Developer
-- Master DSA
-- Build real-world AI/ML projects
-- Participate in Hackathons
-- Contribute to Open Source
-- Prepare for internships
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushByte-eng&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email: ayushdev635@gmail.com
-
-💼 LinkedIn: [Ayush Tripathi](https://www.linkedin.com/in/ayush-tripathi-dev/?isSelfProfile=true)
-
-🐙 GitHub: [AyushByte-eng](https://github.com/AyushByte-eng)
----
-
-### DREAM • LEARN • BUILD 🚀
-
-> Learning every day. Building something every week.## Hi there 👋
-
-<!--
-**AyushByte-eng/AyushByte-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->   
-
-
-
-
-
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=70&lines=Hey%2C+I'm+Ayush+Tripathi+%E2%9A%A1;B.Tech+Student+%7C+Software+Developer;Python+%7C+C%2B%2B+%7C+DSA;AI%2FML+Explorer+%F0%9F%A4%96;Dream+%E2%80%A2+Learn+%E2%80%A2+Build+%F0%9F%9A%80)](https://github.com/AyushByte-eng)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/AyushByte-eng)
+
+**Always learning. Always building.**
 
 </div>
